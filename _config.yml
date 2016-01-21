@@ -1,0 +1,28 @@
+name: petterintesti
+favicon: null
+layout_spectrum: 0.8622692655771971
+typography_spectrum: 0.06821961933746934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5830430593341589
+  lightness: 0.8784258686937392
+  saturation: 0.4940973138436675
+  rhythmicContrast: 0.8400879800319672
+purpose: []

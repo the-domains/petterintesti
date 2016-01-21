@@ -2,6 +2,7 @@ name: petterintesti
 favicon: null
 layout_spectrum: 0.8622692655771971
 typography_spectrum: 0.06821961933746934
+title: Testiä
 cta:
   domain: null
   bucket: null
